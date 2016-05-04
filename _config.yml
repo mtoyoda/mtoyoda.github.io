@@ -9,7 +9,7 @@
 title: Masashi Toyoda
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-This is Masashi Toyoda's github site.
+  This is Masashi Toyoda's github site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mtoyoda.github.io" # the base hostname & protocol for your site
 twitter_username: toyodam
